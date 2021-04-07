@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PupsterApp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/PupsterApp/static/js/main.0ece5be2.chunk.js",
+    "main.js.map": "/PupsterApp/static/js/main.0ece5be2.chunk.js.map",
+    "runtime-main.js": "/PupsterApp/static/js/runtime-main.f55061ed.js",
+    "runtime-main.js.map": "/PupsterApp/static/js/runtime-main.f55061ed.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/PupsterApp/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.53bc3a6c.chunk.js": "/PupsterApp/static/js/2.53bc3a6c.chunk.js",
+    "static/js/2.53bc3a6c.chunk.js.map": "/PupsterApp/static/js/2.53bc3a6c.chunk.js.map",
+    "index.html": "/PupsterApp/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/PupsterApp/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/PupsterApp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.53bc3a6c.chunk.js.LICENSE.txt": "/PupsterApp/static/js/2.53bc3a6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f55061ed.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.53bc3a6c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0ece5be2.chunk.js"
+  ]
+}
